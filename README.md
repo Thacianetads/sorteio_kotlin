@@ -21,7 +21,3 @@ Um aplicativo simples e intuitivo desenvolvido para Android em **Kotlin** utiliz
 
 ---
 
-
-    // Estrutura de UI (Column, Text, Button)
-    // ...
-}
